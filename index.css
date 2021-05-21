@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-color: rgb(77, 4, 77);
+    width: 1200px;
+    height: 135vh;
+    margin-bottom: 52px;
+    border-radius: 7px;
+}
+.container2 {
+    background-color: rgb(238, 196, 196);
+    height: 118vh;
+    width: 75%;
+    margin-top: 85px;
+}
+.nav-link {
+    color: rgb(88, 87, 87);
+    font-weight: 600;
+    margin-top: -60px;
+    margin-right: 12px;
+}
+#link-color {
+    color: black;
+    font-weight: bold;
+    margin-top: -60px;
+    margin-right: 12px;
+}
+#btn {
+    margin-top: -115px;
+    margin-right: 12px;
+    background-color: rgb(40, 40, 168);
+    border: 1px solid rgb(40, 40, 168);
+}
+#btn:hover {
+    background-color: black;
+    border: none;
+}
+#logo {
+    position: absolute;
+    top: 0;
+    display: inline;
+    margin-top: 14vh;
+    margin-left: 22px;
+    width: 48px;
+    height: 42px;
+    border-radius: 50%;
+}
+h3 {
+    margin-left: 80px;
+    margin-top: 14vh;
+    position: relative;
+}
+p {
+    margin-left: 20px;
+    color: rgb(88, 87, 87);
+    font-size: small;
+    margin-top: 1.2vh;
+    font-family: Arial, sans-serif;
+}
+.h1 {
+    color: black;
+    font-weight: bolder;
+    font-size: 48px;
+}
+.text {
+    margin-top: -80px;
+    color: rgb(73, 71, 71);
+    font-size: 22px;
+    margin-left: 1rem;
+}
+#btn1 {
+    background-color: rgb(13, 13, 150);
+    margin-left: 19px;
+    border: none;
+    outline: none;
+}
+#btn2 {
+    background-color: white;
+    margin-left: 12px;
+}
+img {
+    width: 650px;
+    height: 540px;
+    margin-left: 17rem;
+    margin-top: -230px;
+}
