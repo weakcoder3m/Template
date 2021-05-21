@@ -87,3 +87,51 @@ img {
     margin-left: 17rem;
     margin-top: -230px;
 }
+.container-fluid {
+    margin-top: 180px;
+    width: 85%;
+    height: 110px;
+}
+#image {
+    margin-left: 9px;
+    width: 500px;
+    height: 420px;
+}
+#h2 {
+    float: right;
+    color: black;
+    margin-top: -160px;
+    margin-right: 120px;
+    font-weight: bolder;
+    font-size: 42px;
+}
+#link {
+    float: right;
+    margin-right: 188px;
+    margin-top: -45px;
+    font-size: smaller;
+}
+.h4 {
+    float: right;
+    color: black;
+    font-weight: bolder;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.lorem1 {
+    float: right;
+    margin-top: -90px;
+    margin-right: 45px;
+}
+.lorem {
+    float: right;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 47px;
+}
+#btn1 {
+    float: right;
+    margin-top: 20px;
+    margin-left: 600px;
+    margin-right: 477px;
+}
